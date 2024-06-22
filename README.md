@@ -1,3 +1,4 @@
+![logo](https://github.com/sumitsingh44/sumitsingh44/blob/main/Github%20Profile%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sumit Singh</h1>
 <h3 align="center">Certified Data Analyst | Turning Data into Insights</h3>
 
